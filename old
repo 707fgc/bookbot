@@ -1,0 +1,32 @@
+def total_char_appearance(filepath):
+# #     char_list = dict()
+# #     with open(filepath) as file:
+# #         file_contents = file.read().lower()
+# #         for i in range(0, len(file_contents)):
+# #             if file_contents[i] not in char_list:
+# #                 char_list[file_contents[i]] = 1
+# #             elif file_contents[i] in char_list:
+# #                 char_list[file_contents[i]] += 1
+
+#     char_list = []
+#     with open(filepath) as file:
+#         file_contents = file.read().lower()
+#     for i in range(0, len(file_contents)):
+#         if file_contents[i] not in char_list:
+#             char_list.append(fil)
+#            elif file_contents[i] in char_list:
+#             char_list[file_contents[i]] += 1
+
+#     return char_list
+
+# def sort_on(dict):
+#     return dict["num"]
+
+# def out_dict(filepath):
+#     char_list = total_char_appearance(filepath)
+#     sorted_list = []
+#     for ch in char_list:
+#         sorted_list.append({"char": ch, "num": char_list[ch]})
+#     sorted_list.sort(reverse=True, key=sort_on)
+#     return sorted_list
+    
