@@ -33,8 +33,3 @@ def sorted_chars(filepath):
     out.sort(reverse=True, key=sort_on)
     return out
 
-def print_list(filepath):
-    sorted_list = sorted_chars(filepath)
-    return sorted_list
-
-
